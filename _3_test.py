@@ -1,6 +1,7 @@
 import time
 from _3_test_input_data import count_iterable, count_developers, list_developers_status
 
+
 test_count = int(count_iterable)
 
 start = time.time()

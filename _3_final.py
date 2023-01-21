@@ -1,3 +1,4 @@
+
 for _ in range(int(input())):
     count_developers = int(input())
     list_developers_status = [int(_) for _ in input().split()]
